@@ -4,7 +4,7 @@
 
 ![Screenshot](./screenshot.png)
 
-![Screenshot](https://github.com/Calart/Synthwave/blob/main/screenshot1.PNG =250x250)
+<img src="https://github.com/Calart/Synthwave/blob/main/screenshot1.PNG" width="1280" height="700" />
 
 ![Screenshot](./screenshot3.png)
 
