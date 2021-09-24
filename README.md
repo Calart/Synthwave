@@ -31,12 +31,7 @@ This theme is maintained by the following person.
 ## Donations
 Donwnloads are free, but you're always welcome to show your support with a little contribution
 
-<form action="https://www.paypal.com/donate" method="post" target="_top">
-<input type="hidden" name="hosted_button_id" value="GB6WHQYLRH3DS" />
-<input type="image" src="https://www.paypalobjects.com/en_US/DK/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_DK/i/scr/pixel.gif" width="1" height="1" />
-</form>
-
+[Donate](https://www.paypal.com/donate?hosted_button_id=GB6WHQYLRH3DS)
 
 ## Help
 I used Abbabon's Dracula theme (https://github.com/dracula/aseprite), as a starting point, but edited pretty much everything to the point it was a new file entirely.
