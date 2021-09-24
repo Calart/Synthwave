@@ -30,7 +30,7 @@ This theme is maintained by the following person.
 
 
 ## Help
-Most of the sheet was edited while making this theme. I used Abbabon's Dracula theme (https://github.com/dracula/aseprite), as a starting point. 
+I used Abbabon's Dracula theme (https://github.com/dracula/aseprite), as a starting point, but edited pretty much everything to the point it was a new file entirely. 
 Open an [Issue on GitHub](https://github.com/calart/aseprite-synthwave-theme/issues/new "New Issue &#183; calart/aseprite-synthwave-theme") or message me on [Twitter](https://twitter.com/pronomicalart).
 
 ## License
