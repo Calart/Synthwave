@@ -29,7 +29,7 @@ This theme is maintained by the following person.
 [calart/avatar_url]: https://avatars.githubusercontent.com/u/70825079?s=40&v=4
 
 ## Donations
-Donwnloads are free, but you're always welcome to show your support with a little contribution
+Donwnloads are free, but you're always welcome to show your support.
 
 [Donate](https://www.paypal.com/donate?hosted_button_id=GB6WHQYLRH3DS)
 
