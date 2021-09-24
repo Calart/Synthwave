@@ -10,7 +10,7 @@
 
 ## Install
 
-Save and Download '.Zip'
+Save and Download'ZIP'
 
 [In Aseprite navigate as shown]:
 Edit > Preferences > Extensions > Add Extention > Select "Synthwave.zip" (or whatever you named the folder).
