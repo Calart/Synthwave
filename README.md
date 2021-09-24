@@ -2,11 +2,11 @@
 
 > An 80's inspired theme for [Aseprite](https://www.aseprite.org/).
 
-![Screenshot](./screenshot.png)
+![Screenshot](.screenshot.png)
 
-![Screenshot](./screenshot2.png)
+![Screenshot](.screenshot2.png)
 
-![Screenshot](./screenshot3.png)
+![Screenshot](.screenshot3.png)
 
 ## Install
 
