@@ -2,11 +2,11 @@
 
 > An 80's inspired theme for [Aseprite](https://www.aseprite.org/).
 
-![Screenshot](./screenshot.png)
 
 <img src="https://github.com/Calart/Synthwave/blob/main/screenshot1.PNG" width="640" height="350" />
+<img src="https://github.com/Calart/Synthwave/blob/main/screenshot2.PNG" width="640" height="350" />
+<img src="https://github.com/Calart/Synthwave/blob/main/screenshot3.PNG" width="640" height="350" />
 
-![Screenshot](./screenshot3.png)
 
 ## Install
 
