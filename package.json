@@ -1,0 +1,20 @@
+{
+  "name": "synthwave-theme",
+  "displayName": "SynthWave",
+  "description": "Theme for Aseprite using Calart's synthwave styled palette",
+  "version": "1.00",
+  "author": { "name": "calart", "email": "michaeltwpearson@gmail.com", "url": "https://github.com/Calart/" },
+  "contributors": [
+    {"name": "calart"}
+  ],
+  "publisher": "calart",
+  "license": "MIT",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      { "id": "Synthwave", "path": "./theme" }
+    ]
+  }
+}
