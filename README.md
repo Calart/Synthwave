@@ -32,8 +32,7 @@ This theme is maintained by the following person.
 ## Help
 I used Abbabon's Dracula theme (https://github.com/dracula/aseprite), as a starting point, but edited pretty much everything to the point it was a new file entirely.
 
-Any inquiries about changes or other: 
-Open an [Issue on GitHub](https://github.com/Calart/Synthwave/issues/new/choose "New Issue &#183; https://github.com/Calart/Synthwave") or message me on [Twitter](https://twitter.com/pronomicalart).
+Any inquiries about changes or other you can open an [Issue on GitHub](https://github.com/Calart/Synthwave/issues/new/choose "New Issue &#183; https://github.com/Calart/Synthwave") or message me on [Twitter](https://twitter.com/pronomicalart).
 
 ## License
 This theme is based on the default theme of [Aseprite](http://aseprite.org "Aseprite - Animated sprite editor & pixel art tool") by Ilija Melentijevic & David Capello.  
