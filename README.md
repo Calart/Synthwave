@@ -14,7 +14,7 @@
 
 [In Aseprite navigate as shown] :
 
-Edit > Preferences > Extensions > Add Extention > Select "Synthwave.zip" (or whatever you named the folder).
+Edit > Preferences > Extensions > Add Extention > Select "Synthwave-main.zip" (or whatever you named the folder).
 
 Lastly go to 'Themes' inside 'Preferences' and select the theme.
 
