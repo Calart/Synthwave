@@ -2,14 +2,20 @@
 
 > An 80's inspired theme for [Aseprite](https://www.aseprite.org/).
 
-> Complete redesign of tools for Aseprite:
+> Complete redesign of tools for Aseprite!
 
 <img src="https://github.com/Calart/Synthwave/blob/main/BrandNewCustomTools.png"/>
 
->Previews:
+> Brand new cursor styles!
+
+<img src="https://github.com/Calart/Synthwave/blob/main/BrandNewCursors.png"/>
+
+> Previews
 
 <img src="https://github.com/Calart/Synthwave/blob/main/screenshot.PNG" width="640" height="350" />
+-
 <img src="https://github.com/Calart/Synthwave/blob/main/screenshot1.PNG" width="640" height="350" />
+-
 <img src="https://github.com/Calart/Synthwave/blob/main/screenshot2.PNG" width="640" height="350" />
 
 
